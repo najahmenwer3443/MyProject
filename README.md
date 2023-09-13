@@ -1,3 +1,3 @@
 # MyProject
 web school git course
-## projevt nodes
+## projevt notes
